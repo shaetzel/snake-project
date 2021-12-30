@@ -1,7 +1,7 @@
 """
 Module: Snake
 
-Authors: Sarah Haetzel and Basile Morand
+Authors: Sarah Haetzel
 Department of Computer Science
 University of San Diego
 
