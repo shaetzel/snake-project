@@ -9,11 +9,7 @@ Description:
 A Python implementation of greedy snake, using Tkinter and implemented
 using the model-view-controller design pattern.
 
-Iteration 7:
-
-Final iteration of the greedy snake program. This last iteration implements
-the even handler functions in the controller (the Snake class)
-that were created as stub functions in iteration 5."""
+"""
 
 import random
 import tkinter as tk
